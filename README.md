@@ -1,14 +1,12 @@
 # Computer-Graphics_Solar-System
 
-Engenharia de Computação - Segundo Semestre - Computação Gráfica
+Engenharia de Computação - Segundo Período - Computação Gráfica
 
 Integrantes do grupo:
 
 - Emilio de Luca Canton Amaral Barbosa
 - Fernando Garamvolgyi Mafra Veizaga
 - Gabriel Siqueira Silva
-
-Avaliação: 98%
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
